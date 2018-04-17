@@ -1,0 +1,18 @@
+{
+  "name": "asyncjs",
+  "version": "1.0.0",
+  "description": "playing with pure javascript async",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tashley",
+    "Toocaram"
+  ],
+  "author": "Tashley Toocaram",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
